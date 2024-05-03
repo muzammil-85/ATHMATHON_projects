@@ -1,3 +1,5 @@
 eyx model project link : https://huggingface.co/spaces/ashiqu-ali/Eye-Disease-Detection/tree/main
 
+live model : https://huggingface.co/spaces/ashiqu-ali/Eye-Disease-Detection
+
 explainable model : https://drive.google.com/drive/folders/1XJ_DVTnKUJ8VdsNUY7-441VAjiU1zrHx?usp=sharing
